@@ -1,6 +1,6 @@
-[Yandex Cloud. Object Storage](013-Yandex-Cloud_Object-Storage)
+[Yandex Cloud. Object Storage](https://github.com/netology-code/Cloud-bonus-1/tree/main/Yandex-Cloud-Functions)
 
-[Yandex Cloud Functions](014-Yandex-Cloud-Functions)
+[Yandex Cloud Functions](https://github.com/netology-code/Cloud-bonus-1/tree/main/Yandex-Cloud_Object-Storage)
 
-[API Yandex ID](015-Yandex-ID)
+[API Yandex ID](https://github.com/netology-code/Cloud-bonus-1/tree/main/Yandex-ID)
 
